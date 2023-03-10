@@ -1,0 +1,34 @@
+{
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "auto-prefixer": "^0.4.2",
+    "bootstrap": "^5.2.3"
+  },
+  "name": "coffe-cup",
+  "version": "1.0.0",
+  "description": "Practice Project Using Bootstrap V5, FontAwsome V6 And SASS ",
+  "main": "index.html",
+  "scripts": {
+    "compile:sass": "node-sass Assets/sass/main.scss Assets/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuvraDebPaul/coffe-cup.git"
+  },
+  "keywords": [
+    "Bootstrap5",
+    "SASS",
+    "CSS3",
+    "Learn",
+    "SASS"
+  ],
+  "author": "Suvra Deb Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuvraDebPaul/coffe-cup/issues"
+  },
+  "homepage": "https://github.com/SuvraDebPaul/coffe-cup#readme"
+}
